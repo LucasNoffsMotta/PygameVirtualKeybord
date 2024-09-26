@@ -1,4 +1,4 @@
-This is a simple text input simulating a virtual Keybord made with Pygame. The purpose of this program is to test a couple features that can be used on a larger game project.
+This is a simple text inputer simulating a virtual Keybord made with Pygame. The purpose of this program is to test a couple features that can be used on a larger game project.
 
 This program is capable of:
   -  Recieve user input on the virtual keybord.
