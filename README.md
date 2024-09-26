@@ -16,9 +16,10 @@ How to use it:
 - Press "C" to change the color;
 - Press "P" to save the data and display the saved data on the screen;
   
-Screenshot of the program running:
+![GIFMaker_me (6)](https://github.com/user-attachments/assets/a0629eb2-2fcb-4946-a37a-0d10544bb4cb)
 
-![image](https://github.com/user-attachments/assets/ac5330b1-8b1d-4bd1-aff6-1acb24ce1af6)
+
+
 
 
 
