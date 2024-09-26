@@ -15,8 +15,9 @@ How to use it:
 - Press "F" to change the text font;
 - Press "C" to change the color;
 - Press "P" to save the data and display the saved data on the screen;
+
   
-![GIFMaker_me (10)](https://github.com/user-attachments/assets/341bfdcf-241d-4e23-a85e-fb10e68ec686)
+![GIFMaker_me (11)](https://github.com/user-attachments/assets/7f48b56e-b619-4e17-a4c5-516129d70dc4)
 
 
 
