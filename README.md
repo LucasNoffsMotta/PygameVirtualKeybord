@@ -17,6 +17,7 @@ How to use it:
 - Press "P" to save the data and display the saved data on the screen;
 
 Screenshot of the program running:
-![image](https://github.com/user-attachments/assets/00a522bf-c006-4a92-b948-4cc5a1911810)
+![image](https://github.com/user-attachments/assets/ac5330b1-8b1d-4bd1-aff6-1acb24ce1af6)
+
 
 
